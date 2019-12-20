@@ -56,4 +56,4 @@ Neda Nategh <br>
 
 ## References
 
-[1] [McIntosh, Lane, and Niru Maheswaranathan. "A Deep Learning Model of the Retina." Trial 10 (2015): 20.](https://pdfs.semanticscholar.org/4237/e522a11a04f76f2dc2c0f486d006b6bd9658.pdf)
+McIntosh, Lane, and Niru Maheswaranathan. "A Deep Learning Model of the Retina." (2015). [View Article](https://pdfs.semanticscholar.org/4237/e522a11a04f76f2dc2c0f486d006b6bd9658.pdf)
